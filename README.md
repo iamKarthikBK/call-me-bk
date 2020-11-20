@@ -1,7 +1,16 @@
 ### Hi there 👋
+## I am B K Karthik
+
+❤️ coder by passion
+
+🎓 Student at PES University Electronic City Campus
+
+👍 Feel free to go through my repositories
+
+🌐 Website: [call-me-bk.github.io/profile](https://call-me-bk.github.io/profile) 
 
 <!--
-**call-me-bk/call-me-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**call-me-bk/call-e-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
