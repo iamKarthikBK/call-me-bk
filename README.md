@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am B K Karthik
+## I am Karthik
 
 ❤️ coder by passion
 
