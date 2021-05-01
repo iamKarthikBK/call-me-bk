@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Karthik
 
-❤️ coder by passion
+❤️ Circuit Designer and Programmer by passion
 
 🎓 Student at PES University Electronic City Campus
 
